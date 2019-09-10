@@ -1,0 +1,26 @@
+/*styles for project 4*/
+
+body {
+    letter-spacing: .5px;
+    line-height: 1.5;
+    padding: 10%;
+    font-family: quiroh, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    color: cornflowerblue;
+    font-family: quiroh, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h2 {font-family: quiroh, sans-serif;
+    font-weight: 600;
+    font-style: normal;}
+
+img {
+    max-width: 100%;
+}
+
