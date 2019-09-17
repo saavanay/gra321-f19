@@ -16,11 +16,17 @@ h1 {
     font-style: normal;
 }
 
-h2 {font-family: quiroh, sans-serif;
+h2 {
+    font-family: quiroh, sans-serif;
     font-weight: 600;
-    font-style: normal;}
+    font-style: normal;
+}
 
 img {
     max-width: 100%;
+}
+
+ul {
+    margin-bottom: 2rem;
 }
 

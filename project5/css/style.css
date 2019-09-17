@@ -1,0 +1,32 @@
+/*styles for project 5*/
+
+body {
+letter-spacing: .75px;
+line-height: 2;
+padding:5%;
+font-family: stratos-lights, sans-serif;
+font-weight: 300;
+font-style: normal;    
+}
+
+h1 {
+    letter-spacing: .75px;
+    color:#0271A5;
+    font-family: stratos, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+h2 {
+    letter-spacing: .75px;
+    color:#0271A5;
+    font-family: stratos, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+
+
+img {
+    max-width: 100%;
+}
