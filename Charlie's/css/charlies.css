@@ -1,0 +1,157 @@
+* {
+  box-sizing: border-box;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {color: white;
+    background: #ACD500;
+    background-size: cover;
+    font-family: futura-pt, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    height: 98vh;
+    width: 100%;
+    padding-top: 50vh;
+    text-align: center;
+    font-size: 46pt;
+
+}
+
+h2 {
+  color: #696969;
+  font-family: futura-pt, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 30pt;
+  margin-left: 150; 
+  margin-top: 100;
+  margin-bottom: 100;  
+}
+
+h3 {
+  font-family: futura-pt, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 22pt;
+  margin-left: 150; 
+  margin-top: 100;
+  margin-bottom: 30;  
+}
+
+.fs li{
+  padding: 30,30,30,30;  
+}
+
+
+li {
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-areas: 
+    "product product product product"
+    "s m l .";
+  grid-template-columns: 2fr 1fr 1fr 1fr;
+  width: 100%;
+  text-align: left, center, center, center;
+  font-family: futura-pt, sans-serif;
+  font-weight: 500;}
+
+h4 {color: #696969;
+  font-family: futura-pt, sans-serif;
+  font-weight: 500;
+  font-style: normal; 
+  margin-left: 150;
+    
+}
+
+.paninis {
+    font-family: futura-pt, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    padding-top:10;
+    padding-bottom: 20;
+}
+       
+h5 {
+  font-size: 22pt;
+  font-family: futura-pt, sans-serif;
+  font-weight: 700;
+  padding-left: 150;
+  padding-top: 50;
+  padding-bottom: 30;
+  color: white;
+  background: #ACD500;
+  
+}
+
+body {
+    color: #696969;
+    font-family: futura-pt, sans-serif;
+    font-size: 20;
+    padding-right: 150;
+}
+
+p{
+  padding-left: 150;
+  font-weight: 500;
+}
+
+.hnl{
+    font-weight: 700;
+    background: #ACD500;
+    color: white; 
+    padding-bottom: 10;
+}
+.hnl1{
+    background: #ACD500;
+    color: white; 
+}
+.hnl2{
+    background: #ACD500;
+    color: white;
+    padding-bottom: 10;
+}
+.hnl3{
+    background: #ACD500;
+    color: white; 
+    padding-bottom: 10;
+    font-weight: 700;
+}
+.hnl4{
+    background: #ACD500;
+    color: white; 
+}
+.hnl5{
+    background: #ACD500;
+    color: white;
+    padding-bottom: 10;
+}
+.hnl6{
+    background: #ACD500;
+    color: white;
+    padding-bottom: 10;
+    font-weight: 700;
+    
+}
+.hnl7{
+    background: #ACD500;
+    color: white;
+    
+}
+.hnl8{
+    background: #ACD500;
+    color: white; 
+}
+.contact{
+    background: #ACD500;
+    color: white; 
+    padding-bottom: 50;
+}
+
+
+
+
+ 
