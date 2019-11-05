@@ -7,6 +7,12 @@
   margin: 0;
 }
 
+        
+  @-ms-viewport{
+    width: device-width;
+}
+  
+
 h1 {color: white;
     background: #ACD500;
     background-size: cover;
