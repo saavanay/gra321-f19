@@ -58,7 +58,7 @@ li {
   grid-template-areas: 
     "product product product product"
     "s m l .";
-  grid-template-columns: 2fr 1fr 1fr 1fr;
+  grid-template-columns: 40% 15% 15% 15%;
   width: 100%;
   text-align: left, center, center, center;
   font-family: futura-pt, sans-serif;
@@ -75,15 +75,15 @@ h4 {color: #696969;
 }
 
 .small {
-    width: 10%;
+    text-align:center;
 }
 
 .medium {
-    width: 10%;
+    text-align:center;
 }
 
 .large {
-    width: 10%;
+    text-align:center;
 }
 .paninis {
     font-family: futura-pt, sans-serif;
