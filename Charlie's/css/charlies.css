@@ -63,7 +63,9 @@ li {
   width: 100%;
   text-align: left, center, center, center;
   font-family: futura-pt, sans-serif;
-  font-weight: 500;}
+  font-weight: 500;
+  
+}
 
 h4 {color: #696969;
   font-family: futura-pt, sans-serif;
@@ -73,6 +75,17 @@ h4 {color: #696969;
   width: 200px;  
 }
 
+.small {
+    width: 50px;
+}
+
+.medium {
+    width: 50px;
+}
+
+.large {
+    width: 50px;
+}
 .paninis {
     font-family: futura-pt, sans-serif;
     font-weight: 300;
