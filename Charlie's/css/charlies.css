@@ -24,7 +24,6 @@ h1 {color: white;
     padding-top: 50vh;
     text-align: center;
     font-size: 46pt;
-
 }
 
 h2 {
@@ -76,15 +75,15 @@ h4 {color: #696969;
 }
 
 .small {
-    width: 50px;
+    width: 10%;
 }
 
 .medium {
-    width: 50px;
+    width: 10%;
 }
 
 .large {
-    width: 50px;
+    width: 10%;
 }
 .paninis {
     font-family: futura-pt, sans-serif;
@@ -117,7 +116,6 @@ body {
     color: #696969;
     font-family: futura-pt, sans-serif;
     font-size: 20;
-    
 }
 
 p{
