@@ -33,7 +33,7 @@ h2 {
   font-weight: 700;
   font-style: normal;
   font-size: 30pt;
-  margin-left: 110; 
+  margin-left: 8.5%; 
   margin-top: 100;
   margin-bottom: 100;  
 }
@@ -43,7 +43,7 @@ h3 {
   font-weight: 700;
   font-style: normal;
   font-size: 22pt;
-  margin-left: 110; 
+  margin-left: 8.5%; 
   margin-top: 100;
   margin-bottom: 30;  
 }
@@ -71,7 +71,7 @@ h4 {color: #696969;
   font-family: futura-pt, sans-serif;
   font-weight: 500;
   font-style: normal; 
-  margin-left: 110;
+  margin-left: 22%;
   width: 200px;  
 }
 
@@ -105,7 +105,7 @@ h5 {
   font-size: 22pt;
   font-family: futura-pt, sans-serif;
   font-weight: 700;
-  padding-left: 110;
+  padding-left: 8.5%;
   padding-top: 50;
   padding-bottom: 30;
   color: white;
@@ -121,7 +121,7 @@ body {
 }
 
 p{
-  padding-left: 110;
+  padding-left: 8.5%;
   font-weight: 500;
 }
 
